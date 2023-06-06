@@ -167,7 +167,7 @@ def TrainImages():
 	recognizer.train(faces, np.array(Id))
 	recognizer.save("TrainingImageLabel\Trainer.yml")
 	# Displaying the message
-	res = "Image Trained"
+	res = "Image Trained Done"
 	message.configure(text=res)
 
 
