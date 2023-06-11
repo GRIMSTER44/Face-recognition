@@ -46,7 +46,6 @@ txt2 = tk.Entry(window, width=20,
 				font=('times', 15, ' bold '))
 txt2.place(x=700, y=315)
 
-
 # The function below is used for checking
 # whether the text below is number or not ?
 #fn num
