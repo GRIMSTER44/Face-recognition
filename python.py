@@ -50,7 +50,6 @@ txt2.place(x=700, y=315)
 # whether the text below is number or not ?
 #fn num
 
-
 def is_number(s):
 	try:
 		float(s)
