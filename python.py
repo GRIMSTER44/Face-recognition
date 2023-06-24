@@ -10,6 +10,7 @@ from PIL import Image, ImageTk
 import pandas as pd
 import datetime
 import time
+import openai
 import tkinter.ttk as ttk
 import tkinter.font as font
 from pathlib import Path
